@@ -28,6 +28,7 @@ s - dole
 
 d - rotacija udesno
 
+Scena 2 i 3
 
 x- prelazimo na scenu 2
 
