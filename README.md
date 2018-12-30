@@ -1,5 +1,7 @@
 # RG4-put-kroz-lavirint
 Put kroz lavirint
+
+
 Biramo prvo put u 2d lavirintu, pri cemu se mozemo kretati dijagonalno drzanjem zeljenih tastera.
 Pritiskom 'x' prelazimo u 3D gde je kamera fiksna i sa 't' mozemo pokrenuti simulaciju ili se sa w a s d krecemo kroz lavirint.
 
