@@ -1,6 +1,9 @@
 # RG4-put-kroz-lavirint
 Put kroz lavirint
 
+Komentari su dodati tek u sestoj nedelji!!!!!
+
+U fajlu lav1.txt nalazi se lavirint, tj dve matrice nula i jedinica. U fajl kretanje.txt upisuje se izabrano kretanje u prvoj sceni.
 
 Biramo prvo put u 2d lavirintu, pri cemu se mozemo kretati dijagonalno drzanjem zeljenih tastera.
 Pritiskom 'x' prelazimo u 3D gde je kamera fiksna i sa 't' mozemo pokrenuti simulaciju ili se sa w a s d krecemo kroz lavirint.
